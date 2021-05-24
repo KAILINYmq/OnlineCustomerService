@@ -1,0 +1,17 @@
+# Default ignored files
+/workspace.xml
+
+
+# Editor directories and files
+
+.idea
+.log
+.exe
+main.exe
+main
+
+static/uploadfile/*
+logs/*
+logs/web_app.log
+tmp/*
+settings/settings.dev.yml
